@@ -1,5 +1,5 @@
-#Technical Drawing 2 - UFE
+# Technical Drawing 2 - UFE
 This repository contains all the coursework and projects from my Technical Drawing course. I took this course at the French University in Egypt during my second year of engineering studies. The course provided a solid foundation in mechanical part design and the use of AutoCAD for creating technical drawings. The projects and homework here demonstrate my practical understanding of fundamental drawing principles and my ability to apply them using CAD software.
 
-#Dessin technique 2 - UFE
+# Dessin technique 2 - UFE
 Ce dépôt contient tous les travaux de cours et projets de mon cours de Dessin Technique. J'ai suivi ce cours à l'Université Française d'Égypte en deuxième année de mes études d'ingénierie. Le cours m'a permis d'acquérir une base solide en conception de pièces mécaniques et dans l'utilisation d'AutoCAD pour la création de dessins techniques. Les projets et devoirs ici démontrent ma compréhension pratique des principes fondamentaux du dessin et ma capacité à les appliquer à l'aide de logiciels de CAO.
